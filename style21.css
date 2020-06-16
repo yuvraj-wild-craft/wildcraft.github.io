@@ -1,0 +1,25 @@
+/*Selector{
+	property=:value;
+}*/
+
+
+
+}
+h1{
+	color:blue;
+	background-color:white center;
+	float:center;
+	text-align:center;  
+}
+p{
+	font-style:bold;
+	font-weight:10px;
+	float:center;
+	text-align:center;
+	color:black;    
+}
+.btn-primary{
+		font-weight:40px;
+	padding:1rem 2rem; 
+border-radius:300px; 
+}

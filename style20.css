@@ -1,0 +1,111 @@
+/*Selector{
+	property=:value;
+}*/
+body ,
+head {
+	 background: url(hearder.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+.btn-danger{
+	background-color:red;
+
+}
+.container{
+	display:table-row;
+	flex-wrap: wrap;
+	justify-content:left;
+}
+
+
+img{
+	height=:300px;
+	width=:450px;
+	margin: 2px; 
+	border-style: outset;
+	cursor:e-resize;
+	justify-content:left; 
+	float: center;
+
+}
+button {
+	text-align:center; 
+	background-color:rgb(40 : 60);
+
+
+}
+.btn {
+	font-weight:700;
+	border-radius:300px;  
+}
+.btn-xl{
+	padding:1rem 2rem;
+
+}
+h1 {
+	color:white; 
+}
+h2 {
+	
+  text-align:center; 
+  padding-bottom:all;
+  border-bottom:solid;    
+  
+}
+hr,p {
+	font-family:bold; 
+	font-size:x-large;
+	font-weight:medium; 
+	border-bottom:solid; 
+	text-align:center;
+	color:white; 
+}
+
+h3{
+	font-size:x-small; 
+}
+
+p {
+	border-bottom:solid;
+	text-align:left;  
+	float:left;
+
+}
+h5{
+	color:white;
+	text-align: center;
+	float:center;
+ }
+
+button,h6 {
+	text-align:center;
+	float:center;
+
+
+}
+.btn-primary{
+	font-weight:40px;
+	padding:1rem 2rem; 
+border-radius:300px;
+background-color:purple; 
+}
+h7{
+	border-right:solid;
+	text-align:center;
+	float:center;
+	font-size:xx-small;
+	color:white;     
+}
+h8{
+	font-size:xx-small;
+	font-style:button; 
+	padding-color:purple;
+}
+z {
+	color:white;
+}
